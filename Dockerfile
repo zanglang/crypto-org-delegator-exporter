@@ -1,4 +1,4 @@
-from python:3.12-rc-slim
+from python:3.15-rc-slim
 LABEL maintainer="zanglang@gmail.com"
 
 COPY ./requirements.txt /requirements.txt
